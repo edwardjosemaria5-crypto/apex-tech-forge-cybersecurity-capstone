@@ -38,25 +38,25 @@ In this capstone, I take on the role of a Junior Security Analyst tasked with im
 
 # 
 
- | Component | Technology |
+  Component - Technology 
 
-# |---|---|
 
- | Host operating system | Windows |
 
-| Virtualisation | VMware |
+  Host operating system - Windows 
 
-| Linux environment | Kali Linux |
+ Virtualisation - VMware 
 
-| Remote access | OpenSSH and PuTTY |
+ Linux environment - Kali Linux 
 
-| Network scanning | Nmap |
+ Remote access - OpenSSH and PuTTY 
 
-| Firewall | UFW |
+ Network scanning - Nmap 
 
-| Traffic analysis | Wireshark |
+ Firewall - UFW 
 
-| File integrity | SHA-256 |
+ Traffic analysis - Wireshark 
+
+ File integrity - SHA-256 
 
 # 
 
