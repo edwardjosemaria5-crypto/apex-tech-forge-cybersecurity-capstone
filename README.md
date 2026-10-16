@@ -1,4 +1,8 @@
-# \# APEX Tech Forge Academy — Cybersecurity Capstone
+# \# APEX Tech Forge Academy | Cybersecurity Capstone
+
+# 
+
+# A hands-on cybersecurity project focused on assessing threats, securing Linux administration, verifying data integrity, and monitoring network activity.
 
 # 
 
@@ -6,11 +10,7 @@
 
 # 
 
-# This project is a hands-on cybersecurity capstone in which I take on the role of a Junior Security Analyst responsible for assessing threats and strengthening the security of APEX Tech Forge Academy's infrastructure.
-
-# 
-
-# The project focuses on protecting student records, securing remote administration, verifying data integrity, and monitoring network activity.
+# In this capstone, I take on the role of a Junior Security Analyst tasked with improving the security of APEX Tech Forge Academy's infrastructure. The project focuses on protecting student records, securing remote access, and investigating suspicious network and authentication activity.
 
 # 
 
@@ -18,19 +18,19 @@
 
 # 
 
-# \- Assess cybersecurity threats and recommend practical mitigations.
+# \- Assess cyber threats and recommend practical mitigations.
 
-# \- Configure secure SSH remote administration on Linux.
+# \- Configure secure SSH remote administration.
 
-# \- Apply firewall rules and validate exposed network ports.
+# \- Apply firewall rules and inspect exposed network ports.
 
-# \- Verify file integrity using SHA-256 cryptographic hashing.
+# \- Verify file integrity using SHA-256.
 
-# \- Analyse encrypted SSH traffic using Wireshark.
+# \- Analyse SSH traffic using Wireshark.
 
-# \- Investigate failed authentication attempts through Linux security logs.
+# \- Investigate failed logins using Linux authentication logs.
 
-# \- Produce a professional PDF Incident Report supported by genuine evidence.
+# \- Produce a professional PDF Incident Report.
 
 # 
 
@@ -44,11 +44,11 @@
 
 # | Host operating system | Windows |
 
-# | Virtualisation platform | VMware |
+# | Virtualisation | VMware |
 
 # | Linux environment | Kali Linux |
 
-# | Remote administration | OpenSSH and PuTTY |
+# | Remote access | OpenSSH and PuTTY |
 
 # | Network scanning | Nmap |
 
@@ -56,11 +56,11 @@
 
 # | Traffic analysis | Wireshark |
 
-# | Integrity verification | SHA-256 utilities |
+# | File integrity | SHA-256 |
 
 # 
 
-# \## Project Phases
+# \## Project Progress
 
 # 
 
@@ -68,17 +68,17 @@
 
 # 
 
-# \*\*Status: Draft completed\*\*
+# \*\*Status:\*\* Draft completed
 
 # 
 
-# \- Prepared an executive summary for Academy leadership.
+# \- Prepared an executive summary.
 
-# \- Applied the Confidentiality, Integrity, and Availability (CIA) Triad.
+# \- Applied the CIA Triad to student records.
 
-# \- Identified phishing, ransomware, and unauthorised network scanning as priority threats.
+# \- Identified phishing, ransomware, and unauthorised network scanning.
 
-# \- Recommended practical security mitigations.
+# \- Recommended practical mitigations.
 
 # 
 
@@ -86,19 +86,17 @@
 
 # 
 
-# \*\*Status: Pending\*\*
+# \*\*Status:\*\* Not started
 
 # 
 
-# Planned activities:
+# \- Configure OpenSSH.
 
-# \- Configure OpenSSH on Kali Linux.
-
-# \- Configure UFW firewall rules.
+# \- Configure UFW.
 
 # \- Connect from Windows using PuTTY.
 
-# \- Scan the lab server with Nmap and document the results.
+# \- Verify network exposure using Nmap.
 
 # 
 
@@ -106,19 +104,17 @@
 
 # 
 
-# \*\*Status: Pending\*\*
+# \*\*Status:\*\* Not started
 
 # 
 
-# Planned activities:
-
 # \- Create `confidential\_records.txt`.
 
-# \- Generate and document its SHA-256 hash.
+# \- Generate its SHA-256 hash.
 
-# \- Restrict file permissions to the owner.
+# \- Restrict file permissions.
 
-# \- Explain the importance of integrity verification during incident response.
+# \- Document the results.
 
 # 
 
@@ -126,31 +122,25 @@
 
 # 
 
-# \*\*Status: Pending\*\*
+# \*\*Status:\*\* Not started
 
 # 
-
-# Planned activities:
 
 # \- Capture SSH traffic using Wireshark.
 
 # \- Generate a controlled failed-login event.
 
-# \- Inspect Linux authentication logs.
+# \- Review authentication logs.
 
-# \- Explain the importance of monitoring failed logins.
-
-# 
-
-# \## Evidence and Reporting
+# \- Explain the security findings.
 
 # 
 
-# Screenshots, command outputs, and findings will be added as each phase is completed and verified.
+# \## Evidence and Final Report
 
 # 
 
-# The final deliverable will be a PDF Incident Report containing the executive summary, technical evidence, captions, analysis, and recommendations.
+# Screenshots and findings will be added as each phase is completed and verified. The final submission will be a PDF Incident Report containing the executive summary, technical evidence, explanations, and recommendations.
 
 # 
 
@@ -158,7 +148,7 @@
 
 # 
 
-# All technical testing will be conducted within my own lab environment or against systems for which I have explicit authorisation. Evidence will be reviewed to ensure that passwords, private keys, and other sensitive information are not published.
+# Testing will be restricted to my own lab environment or systems for which I have explicit authorisation. Sensitive information, including passwords and private keys, will not be published.
 
 # 
 
@@ -166,7 +156,7 @@
 
 # 
 
-# Through this project, I aim to strengthen my practical skills in Linux administration, network security, firewall configuration, cryptographic hashing, packet analysis, authentication log investigation, and technical reporting.
+# This project will strengthen my practical skills in Linux administration, network security, firewall configuration, cryptographic hashing, packet analysis, authentication log investigation, and technical reporting.
 
 # 
 
@@ -174,5 +164,5 @@
 
 # 
 
-# \*This repository documents an educational cybersecurity capstone. Findings and implementation claims will be updated as testing is completed.\*
+# \*Project status will be updated as implementation and verification progress.\*
 
