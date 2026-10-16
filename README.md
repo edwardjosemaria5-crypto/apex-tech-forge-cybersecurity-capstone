@@ -2,7 +2,7 @@
 
 # 
 
-# A hands-on cybersecurity project focused on assessing threats, securing Linux administration, verifying data integrity, and monitoring network activity.
+A hands-on cybersecurity project focused on assessing threats, securing Linux administration, verifying data integrity, and monitoring network activity.
 
 # 
 
@@ -10,7 +10,7 @@
 
 # 
 
-# In this capstone, I take on the role of a Junior Security Analyst tasked with improving the security of APEX Tech Forge Academy's infrastructure. The project focuses on protecting student records, securing remote access, and investigating suspicious network and authentication activity.
+In this capstone, I take on the role of a Junior Security Analyst tasked with improving the security of APEX Tech Forge Academy's infrastructure. The project focuses on protecting student records, securing remote access, and investigating suspicious network and authentication activity.
 
 # 
 
@@ -18,19 +18,19 @@
 
 # 
 
-# \- Assess cyber threats and recommend practical mitigations.
+\- Assess cyber threats and recommend practical mitigations.
 
-# \- Configure secure SSH remote administration.
+\- Configure secure SSH remote administration.
 
-# \- Apply firewall rules and inspect exposed network ports.
+\- Apply firewall rules and inspect exposed network ports.
 
-# \- Verify file integrity using SHA-256.
+\- Verify file integrity using SHA-256.
 
-# \- Analyse SSH traffic using Wireshark.
+\- Analyse SSH traffic using Wireshark.
 
-# \- Investigate failed logins using Linux authentication logs.
+\- Investigate failed logins using Linux authentication logs.
 
-# \- Produce a professional PDF Incident Report.
+\- Produce a professional PDF Incident Report.
 
 # 
 
@@ -38,25 +38,25 @@
 
 # 
 
-# | Component | Technology |
+ | Component | Technology |
 
 # |---|---|
 
-# | Host operating system | Windows |
+ | Host operating system | Windows |
 
-# | Virtualisation | VMware |
+| Virtualisation | VMware |
 
-# | Linux environment | Kali Linux |
+| Linux environment | Kali Linux |
 
-# | Remote access | OpenSSH and PuTTY |
+| Remote access | OpenSSH and PuTTY |
 
-# | Network scanning | Nmap |
+| Network scanning | Nmap |
 
-# | Firewall | UFW |
+| Firewall | UFW |
 
-# | Traffic analysis | Wireshark |
+| Traffic analysis | Wireshark |
 
-# | File integrity | SHA-256 |
+| File integrity | SHA-256 |
 
 # 
 
@@ -68,15 +68,15 @@
 
 # 
 
-# \*\*Status:\*\* Draft completed
+ \*\*Status:\*\* Draft completed
 
 # 
 
-# \- Prepared an executive summary.
+\- Prepared an executive summary.
 
-# \- Applied the CIA Triad to student records.
+\- Applied the CIA Triad to student records.
 
-# \- Identified phishing, ransomware, and unauthorised network scanning.
+\- Identified phishing, ransomware, and unauthorised network scanning.
 
 # \- Recommended practical mitigations.
 
@@ -86,35 +86,35 @@
 
 # 
 
-# \*\*Status:\*\* Not started
+ \*\*Status:\*\* Not started
 
 # 
 
-# \- Configure OpenSSH.
+ \- Configure OpenSSH.
 
-# \- Configure UFW.
+ \- Configure UFW.
 
-# \- Connect from Windows using PuTTY.
+ \- Connect from Windows using PuTTY.
 
-# \- Verify network exposure using Nmap.
-
-# 
-
-# \### Phase 3 — Data Integrity Verification
+ \- Verify network exposure using Nmap.
 
 # 
 
-# \*\*Status:\*\* Not started
+ # \### Phase 3 — Data Integrity Verification
 
 # 
 
-# \- Create `confidential\_records.txt`.
+ \*\*Status:\*\* Not started
 
-# \- Generate its SHA-256 hash.
+# 
 
-# \- Restrict file permissions.
+ \- Create `confidential\_records.txt`.
 
-# \- Document the results.
+ \- Generate its SHA-256 hash.
+
+\- Restrict file permissions.
+
+ \- Document the results.
 
 # 
 
@@ -122,17 +122,17 @@
 
 # 
 
-# \*\*Status:\*\* Not started
+ \*\*Status:\*\* Not started
 
 # 
 
-# \- Capture SSH traffic using Wireshark.
+ \- Capture SSH traffic using Wireshark.
 
-# \- Generate a controlled failed-login event.
+ \- Generate a controlled failed-login event.
 
-# \- Review authentication logs.
+ \- Review authentication logs.
 
-# \- Explain the security findings.
+ \- Explain the security findings.
 
 # 
 
@@ -140,7 +140,7 @@
 
 # 
 
-# Screenshots and findings will be added as each phase is completed and verified. The final submission will be a PDF Incident Report containing the executive summary, technical evidence, explanations, and recommendations.
+ Screenshots and findings will be added as each phase is completed and verified. The final submission will be a PDF Incident Report containing the executive summary, technical evidence, explanations, and recommendations.
 
 # 
 
@@ -148,7 +148,7 @@
 
 # 
 
-# Testing will be restricted to my own lab environment or systems for which I have explicit authorisation. Sensitive information, including passwords and private keys, will not be published.
+ Testing will be restricted to my own lab environment or systems for which I have explicit authorisation. Sensitive information, including passwords and private keys, will not be published.
 
 # 
 
@@ -156,7 +156,7 @@
 
 # 
 
-# This project will strengthen my practical skills in Linux administration, network security, firewall configuration, cryptographic hashing, packet analysis, authentication log investigation, and technical reporting.
+ This project will strengthen my practical skills in Linux administration, network security, firewall configuration, cryptographic hashing, packet analysis, authentication log investigation, and technical reporting.
 
 # 
 
